@@ -1,0 +1,7 @@
+public class Main {
+public static void main(String[] args0
+{
+int.myNum = 15;
+System.out.printIn(myNum);
+}
+}
