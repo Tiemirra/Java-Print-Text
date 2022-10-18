@@ -3,3 +3,4 @@ int // stores integers(whole numbers) without decimals
 float // stores floating point numbers with decimals
 char // stores single characters such as 'a' or 'B' surrounded by single quotes
 boolean // stores values with 2 states: true and false
+final before any variabele // use if you don't want anyone to overwrite existing values (read-only)
