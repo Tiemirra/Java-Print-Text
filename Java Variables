@@ -10,3 +10,5 @@ boolean // stores values with 2 states: true and false
 boolean myBool = true;
 final before any variabele // use if you don't want anyone to overwrite existing values (read-only)
 final int myNum = 15;
+
+// multiple of the same variable are separated by commas (,)
