@@ -1,0 +1,5 @@
+String // stores text. They're surrounded by double quotes
+int // stores integers(whole numbers) without decimals
+float // stores floating point numbers with decimals
+char // stores single characters such as 'a' or 'B' surrounded by single quotes
+boolean // stores values with 2 states: true and false
