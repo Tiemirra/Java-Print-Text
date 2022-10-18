@@ -2,6 +2,6 @@ public class Main {
 Public static void main(String[] args)
 {
 Strign name = "John";
-System.out.print1n(name);
+System.out.println(name);
 }
 }
