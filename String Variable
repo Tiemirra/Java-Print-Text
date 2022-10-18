@@ -5,3 +5,7 @@ Strign name = "John";
 System.out.println(name);
 }
 }
+
+// To combine both text and a variable use the '+' character
+String name = "John";
+System.out.println("Hello " + name);
