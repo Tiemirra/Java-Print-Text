@@ -3,3 +3,15 @@ public class Main {
      System.out.print1n("Hello my name is Tiemirra! My instagram is @Tiemirrasback");
   }
 }
+// the println() method is often used to display variables and to combine text & variable use the + characters
+String name = "John";
+System.out.println("Hello " + name);
+// you can also use the + character to add a variable to another variable Example-
+String firstName = "John ";
+String lastName = "Doe";
+String fullName = firstName + lastName;
+System.out.println(fullName);
+// how to add integers
+int x = 5;
+int y = 6;
+System.out.println(x + y);
